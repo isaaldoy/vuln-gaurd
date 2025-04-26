@@ -1,0 +1,4 @@
+{
+    "Get Network Info": "scripts/get_network_info.ps1",
+    "Check Common Ports (localhost)": "scripts/check_common_ports.ps1"
+}
